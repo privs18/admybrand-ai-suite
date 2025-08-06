@@ -1,0 +1,14 @@
+// src/components/ThemeWrapper.tsx
+'use client';
+
+import { ThemeProvider } from 'next-themes';
+import { ReactNode } from 'react';
+
+export default function ThemeWrapper({ children }: { children: ReactNode }) {
+  return (
+    <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+      {children}
+    </ThemeProvider>
+  );
+}
+
