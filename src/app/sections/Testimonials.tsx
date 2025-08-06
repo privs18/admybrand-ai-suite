@@ -13,19 +13,19 @@ const testimonials = [
     name: 'James Carter',
     role: 'CMO, NovaTech',
     quote: 'The AI copywriter alone saves our team hours every week. Highly recommend!',
-    image: '/images/customer2.jpg',
+    image: '/public/boy1.jpg',
   },
   {
     name: 'Nina Alvarez',
     role: 'CEO, StorySpark',
     quote: 'Our conversions doubled since we switched to ADmyBRAND’s platform.',
-    image: '/images/customer3.jpg',
+    image: '/public/girl2.jpg',
   },
   {
     name: 'David Kim',
     role: 'Founder, EcoGoods',
     quote: 'The insights and analytics are game-changing. We can finally see what works.',
-    image: '/images/customer4.jpg',
+    image: '/public/boy2.webp',
   },
   
   
