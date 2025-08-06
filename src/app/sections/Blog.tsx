@@ -1,25 +1,26 @@
 'use client';
 
 const blogPosts = [
-  {
-    title: 'How AI is Revolutionizing Digital Marketing',
-    summary: 'Explore how artificial intelligence is streamlining campaign planning, execution, and optimization.',
-    image: '/images/ai-marketing.jpg',
-    link: '#',
-  },
-  {
-    title: 'Top 5 Marketing Tools for 2025',
-    summary: 'We reviewed the best tools for automation, analytics, and audience targeting in 2025.',
-    image: '/images/marketing-tools.jpg',
-    link: '#',
-  },
-  {
-    title: 'Why Personalization Wins in Modern Marketing',
-    summary: 'Learn why personalized content outperforms traditional ads and how to implement it at scale.',
-    image: '/images/personalization.jpg',
-    link: '#',
-  },
-];
+    {
+      title: 'How AI is Revolutionizing Digital Marketing',
+      summary: 'Explore how artificial intelligence is streamlining campaign planning, execution, and optimization.',
+      image: 'https://images.unsplash.com/photo-1581090700227-1c07c686b5a0?auto=format&fit=crop&w=800&q=80',
+      link: 'https://blog.hubspot.com/marketing/artificial-intelligence-marketing',
+    },
+    {
+      title: 'Top 5 Marketing Tools for 2025',
+      summary: 'We reviewed the best tools for automation, analytics, and audience targeting in 2025.',
+      image: 'https://images.unsplash.com/photo-1580910051073-3e7f71adf38c?auto=format&fit=crop&w=800&q=80',
+      link: 'https://www.singlegrain.com/tools/best-marketing-tools/',
+    },
+    {
+      title: 'Why Personalization Wins in Modern Marketing',
+      summary: 'Learn why personalized content outperforms traditional ads and how to implement it at scale.',
+      image: 'https://images.unsplash.com/photo-1611601186191-0f8f939fcd3b?auto=format&fit=crop&w=800&q=80',
+      link: 'https://www.salesforce.com/blog/personalized-marketing/',
+    },
+  ];
+  
 
 export default function Blog() {
   return (
