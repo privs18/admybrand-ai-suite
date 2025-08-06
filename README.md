@@ -28,20 +28,25 @@ A stunning SaaS landing page built with Next.js 14, Tailwind CSS, Framer Motion,
 
 ## 🤖 AI Usage Report
 
-### AI Tools Used
-- **ChatGPT**: Component planning, refactoring, layout generation
-- **v0.dev**: Initial component ideas and Tailwind classes
-- **GitHub Copilot**: Code suggestions, refactoring
+The development of this project was significantly accelerated and enhanced using a variety of AI tools:
 
-### Sample Prompts
-1. *"Create a responsive pricing card with Tailwind and framer motion."*
-2. *"Add a glassy navbar with scroll and hover effects."*
-3. *"Fix layout shifting issue in Next.js component with App Router."*
+- ✨ **ChatGPT** (OpenAI): 
+  - Assisted in ideating the layout and structure of the landing page.
+  - Generated clean, modular React (Next.js) components using TypeScript and Tailwind CSS.
+  - Helped troubleshoot issues related to deployment, Git conflicts, and responsive design.
+  - Provided suggestions for implementing dark/light themes and accessibility enhancements.
 
-### AI vs Manual Split
-- AI-Generated: ~60% (UI templates, structure, utility classes)
-- Manual Work: ~40% (Final layout, structure, integration, bug fixes)
-- Customization: Every AI-generated snippet was customized to match branding, UX goals, and responsiveness
+- 🤖 **GitHub Copilot**:
+  - Provided real-time code suggestions while writing components and styling elements.
+  - Auto-completed repetitive patterns like map functions, classNames, and JSX structures.
+  - Suggested optimizations for component reuse and readability.
+
+- 🎨 **AI Image Tools** (e.g. [Unsplash AI Search](https://unsplash.com/s/photos/ai), [RunwayML], etc.):
+  - Helped source and select images relevant to blog posts and hero banners.
+  - Enhanced the visual appeal of the site with high-quality AI-assisted visuals.
+
+These tools collectively saved hours of development time, improved code quality, and allowed for rapid iteration on both functionality and design. AI acted as a real-time assistant, mentor, and designer throughout the development process.
+
 
 ---
 
