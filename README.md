@@ -52,4 +52,4 @@ git clone https://github.com/yourusername/admybrand-landing
 cd admybrand-landing
 npm install
 npm run dev
->>>>>>> 0bbc58d52df1491d4851746c8afbdcb448ac20a7
+
