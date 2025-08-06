@@ -7,7 +7,7 @@ const testimonials = [
     name: 'Sarah Lee',
     role: 'Marketing Director, Growthly',
     quote: 'ADmyBRAND AI Suite has revolutionized how we run campaigns. Instant results!',
-    image: '/images/customer1.jpg',
+    image: '/public/girl1.jpg',
   },
   {
     name: 'James Carter',
